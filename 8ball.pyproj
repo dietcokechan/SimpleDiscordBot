@@ -4,13 +4,13 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9a49c842-a613-4a6b-9abb-e045fb426a3e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplication3.py</StartupFile>
+    <StartupFile>8ball.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PythonApplication3</Name>
-    <RootNamespace>PythonApplication3</RootNamespace>
+    <Name>8ball</Name>
+    <RootNamespace>8ball</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
